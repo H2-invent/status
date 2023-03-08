@@ -12,8 +12,8 @@ sites:
     url: https://jitsi-admin.de/health/check
   - name: Meetling
     url: https://app.meetling.de/health/check
-  - name: Unsere Schulkindbetreuung
     icon: https://meetling.de/wp-content/uploads/2022/06/favicon.ico
+  - name: Unsere Schulkindbetreuung
     url: https://unsere-schulkindbetreuung.de
   - name: Open Datenschutzcenter
     url: https://app.open-datenschutzcenter.de/health/check
