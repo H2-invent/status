@@ -12,7 +12,7 @@ sites:
   - name: Meetling
     url: https://app.meetling.de/health/check
   - name: Unsere Schulkindbetreuung.de
-    url: https://Unsere Schulkindbetreuung.de
+    url: https://unsere-schulkindbetreuung.de
   - name: Open Datenschutzcenter
     url: https://app.open-datenschutzcenter.de/health/check
 
