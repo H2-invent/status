@@ -11,6 +11,11 @@ sites:
     url: https://jitsi-admin.de/health/check
   - name: Meetling
     url: https://app.meetling.de/health/check
+  - name: Unsere Schulkindbetreuung.de
+    url: https://Unsere Schulkindbetreuung.de
+  - name: Open Datenschutzcenter
+    url: https://app.open-datenschutzcenter.de/health/check
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,7 +24,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://h2-invent.com/wp-content/uploads/2019/04/H2-invent-2.png
   name: H2 Cloud Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**H2 Cloud Status Page**"
   introMessage: Status Page for H2 Cloud
   navbar:
     - title: Status
