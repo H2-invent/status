@@ -7,11 +7,13 @@ sites:
     url: https://supportchat.h2-invent.com
   - name: H2 Cloud IDP
     url: https://sso.h2-invent.com/auth/resources/4fgd7/login/h2invent-new/img/favicon.ico
+    icon: https://sso.h2-invent.com/auth/resources/4fgd7/login/h2invent-new/img/favicon.ico
   - name: Jitsi Admin
     url: https://jitsi-admin.de/health/check
   - name: Meetling
     url: https://app.meetling.de/health/check
-  - name: Unsere Schulkindbetreuung.de
+  - name: Unsere Schulkindbetreuung
+    icon: https://meetling.de/wp-content/uploads/2022/06/favicon.ico
     url: https://unsere-schulkindbetreuung.de
   - name: Open Datenschutzcenter
     url: https://app.open-datenschutzcenter.de/health/check
