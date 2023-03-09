@@ -15,9 +15,10 @@ sites:
     icon: https://meetling.de/wp-content/uploads/2022/06/favicon.ico
   - name: Unsere Schulkindbetreuung
     url: https://unsere-schulkindbetreuung.de
-  - name: Open Datenschutzcenter
+  - name: Open Datenschutzcenter Prod
     url: https://app.open-datenschutzcenter.de/health/check
-
+  - name: Open Datenschutzcenter Demo
+    url: https://demo.open-datenschutzcenter.de/health/check
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
