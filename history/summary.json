@@ -4,45 +4,49 @@
     "url": "https://supportchat.h2-invent.com",
     "icon": "https://icons.duckduckgo.com/ip3/supportchat.h2-invent.com.ico",
     "slug": "h2-invent-support",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 548,
     "timeDay": 566,
     "timeWeek": 548,
     "timeMonth": 548,
     "timeYear": 548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 2
+    }
   },
   {
     "name": "H2 Cloud IDP",
     "url": "https://sso.h2-invent.com/auth/resources/4fgd7/login/h2invent-new/img/favicon.ico",
     "icon": "https://sso.h2-invent.com/auth/resources/4fgd7/login/h2invent-new/img/favicon.ico",
     "slug": "h2-cloud-idp",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 642,
     "timeDay": 647,
     "timeWeek": 643,
     "timeMonth": 642,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 1
+    }
   },
   {
     "name": "Jitsi Admin",
     "url": "https://jitsi-admin.de/health/check",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi-admin.de.ico",
     "slug": "jitsi-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 662,
     "timeMonth": 894,
     "timeYear": 894,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 0
+    }
   },
   {
     "name": "Meetling",
@@ -77,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/unsere-schulkindbetreuung.de.ico",
     "slug": "unsere-schulkindbetreuung",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "99.96%",
     "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1872,
     "timeDay": 865,
     "timeWeek": 1184,
