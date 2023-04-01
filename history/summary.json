@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 535,
-    "timeDay": 442,
-    "timeWeek": 477,
-    "timeMonth": 535,
-    "timeYear": 535,
+    "time": 537,
+    "timeDay": 577,
+    "timeWeek": 496,
+    "timeMonth": 537,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2023-03-21": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 632,
-    "timeDay": 539,
-    "timeWeek": 565,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "time": 634,
+    "timeDay": 698,
+    "timeWeek": 588,
+    "timeMonth": 634,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2023-03-21": 5
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 803,
-    "timeDay": 753,
-    "timeWeek": 636,
-    "timeMonth": 803,
-    "timeYear": 803,
+    "time": 804,
+    "timeDay": 841,
+    "timeWeek": 663,
+    "timeMonth": 804,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2023-03-21": 5
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 906,
-    "timeWeek": 686,
-    "timeMonth": 974,
-    "timeYear": 974,
+    "time": 975,
+    "timeDay": 1016,
+    "timeWeek": 771,
+    "timeMonth": 975,
+    "timeYear": 975,
     "dailyMinutesDown": {}
   },
   {
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/unsere-schulkindbetreuung.de.ico",
     "slug": "unsere-schulkindbetreuung",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1815,
-    "timeDay": 789,
-    "timeWeek": 1616,
-    "timeMonth": 1815,
-    "timeYear": 1815,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1792,
+    "timeDay": 1104,
+    "timeWeek": 1659,
+    "timeMonth": 1792,
+    "timeYear": 1792,
     "dailyMinutesDown": {
       "2023-03-20": 1,
       "2023-03-19": 9,
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1298,
-    "timeDay": 522,
-    "timeWeek": 545,
-    "timeMonth": 1298,
-    "timeYear": 1298,
+    "time": 1274,
+    "timeDay": 682,
+    "timeWeek": 567,
+    "timeMonth": 1274,
+    "timeYear": 1274,
     "dailyMinutesDown": {
       "2023-03-13": 6
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 852,
-    "timeDay": 751,
-    "timeWeek": 788,
-    "timeMonth": 852,
-    "timeYear": 852,
+    "time": 855,
+    "timeDay": 918,
+    "timeWeek": 811,
+    "timeMonth": 855,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   }
 ]
