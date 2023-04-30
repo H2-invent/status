@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 548,
-    "timeDay": 561,
-    "timeWeek": 548,
+    "time": 546,
+    "timeDay": 443,
+    "timeWeek": 531,
     "timeMonth": 553,
-    "timeYear": 548,
+    "timeYear": 546,
     "dailyMinutesDown": {
       "2023-03-21": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 646,
-    "timeDay": 668,
-    "timeWeek": 648,
+    "time": 644,
+    "timeDay": 535,
+    "timeWeek": 628,
     "timeMonth": 652,
-    "timeYear": 646,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2023-03-21": 5
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 777,
-    "timeDay": 846,
-    "timeWeek": 796,
-    "timeMonth": 746,
-    "timeYear": 777,
+    "time": 790,
+    "timeDay": 1574,
+    "timeWeek": 902,
+    "timeMonth": 778,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2023-04-09": 6,
       "2023-03-21": 5
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 853,
-    "timeDay": 649,
-    "timeWeek": 803,
-    "timeMonth": 763,
-    "timeYear": 853,
+    "time": 855,
+    "timeDay": 974,
+    "timeWeek": 821,
+    "timeMonth": 758,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2023-04-20": 6,
       "2023-04-09": 6
@@ -88,15 +88,15 @@
     "slug": "unsere-schulkindbetreuung",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.20%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
-    "time": 1472,
-    "timeDay": 1013,
-    "timeWeek": 1077,
-    "timeMonth": 1180,
-    "timeYear": 1472,
+    "time": 1474,
+    "timeDay": 1597,
+    "timeWeek": 1143,
+    "timeMonth": 1171,
+    "timeYear": 1474,
     "dailyMinutesDown": {
       "2023-04-28": 11,
       "2023-04-09": 6,
@@ -117,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 980,
-    "timeDay": 2286,
-    "timeWeek": 872,
-    "timeMonth": 694,
-    "timeYear": 980,
+    "time": 972,
+    "timeDay": 530,
+    "timeWeek": 853,
+    "timeMonth": 695,
+    "timeYear": 972,
     "dailyMinutesDown": {
       "2023-03-13": 6
     }
@@ -137,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 915,
-    "timeWeek": 910,
-    "timeMonth": 890,
-    "timeYear": 878,
+    "time": 875,
+    "timeDay": 757,
+    "timeWeek": 878,
+    "timeMonth": 889,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   }
 ]
