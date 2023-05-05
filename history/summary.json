@@ -133,9 +133,9 @@
     "url": "https://demo.open-datenschutzcenter.de/health/check",
     "icon": "https://icons.duckduckgo.com/ip3/demo.open-datenschutzcenter.de.ico",
     "slug": "open-datenschutzcenter-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,6 +144,8 @@
     "timeWeek": 1516,
     "timeMonth": 1066,
     "timeYear": 954,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-05": 0
+    }
   }
 ]
