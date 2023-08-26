@@ -1,7 +1,7 @@
 url: https://jitsi-admin.de/health/check
-status: up
-code: 200
-responseTime: 933
-lastUpdated: 2023-08-25T23:11:45.176Z
+status: down
+code: 502
+responseTime: 841
+lastUpdated: 2023-08-26T10:33:28.317Z
 startTime: 2023-03-08T15:52:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
