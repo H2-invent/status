@@ -1,7 +1,7 @@
 url: https://sso.h2-invent.com/auth/resources/4fgd7/login/h2invent-new/img/favicon.ico
-status: down
-code: 502
-responseTime: 731
-lastUpdated: 2023-09-02T08:25:39.758Z
+status: up
+code: 200
+responseTime: 676
+lastUpdated: 2023-09-02T08:31:50.834Z
 startTime: 2023-03-08T15:52:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
