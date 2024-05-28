@@ -12,7 +12,7 @@ sites:
     url: https://jitsi-admin.de/health/check
   - name: Meetling
     url: https://app.meetling.de/health/check
-    icon: https://meetling.de/wp-content/uploads/2022/06/favicon.ico
+    icon: https://meetling.de/media/meetling-favicon.ico
   - name: Unsere Schulkindbetreuung
     url: https://unsere-schulkindbetreuung.de
   - name: Open Datenschutzcenter Prod
