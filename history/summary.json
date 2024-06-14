@@ -58,10 +58,10 @@
     "icon": "https://sso.h2-invent.com/resources/xtog3/login/h2_invent_4.0/img/favicon.ico",
     "slug": "h2-cloud-idp",
     "status": "up",
-    "uptime": "41.88%",
+    "uptime": "41.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.89%",
+    "uptimeMonth": "52.00%",
     "uptimeYear": "26.23%",
     "time": 723,
     "timeDay": 929,
@@ -410,8 +410,7 @@
       "2023-08-06": 11,
       "2023-07-08": 30,
       "2023-07-05": 6,
-      "2023-07-02": 6,
-      "2023-06-15": 6
+      "2023-07-02": 6
     }
   },
   {
