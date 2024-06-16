@@ -1,7 +1,7 @@
 url: https://app.meetling.de/health/check
-status: down
-code: 504
-responseTime: 995
-lastUpdated: 2024-06-16T14:54:15.777Z
+status: up
+code: 200
+responseTime: 1012
+lastUpdated: 2024-06-16T15:16:21.378Z
 startTime: 2023-03-08T15:52:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
