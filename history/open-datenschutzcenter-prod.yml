@@ -1,7 +1,7 @@
 url: https://app.open-datenschutzcenter.de/health/check
-status: up
-code: 200
-responseTime: 505
-lastUpdated: 2024-06-16T13:57:58.424Z
+status: down
+code: 504
+responseTime: 996
+lastUpdated: 2024-06-16T14:54:20.342Z
 startTime: 2023-03-09T21:03:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
