@@ -9,12 +9,12 @@ sites:
     url: https://sso.h2-invent.com/resources/xtog3/login/h2_invent_4.0/img/favicon.ico
     icon: https://sso.h2-invent.com/resources/xtog3/login/h2_invent_4.0/img/favicon.ico
   - name: Jitsi Admin
-    url: https://jitsi-admin.de/health/check
+    url: https://app.jitsi-admin.de/health/check
   - name: Meetling
     url: https://app.meetling.de/health/check
     icon: https://meetling.de/media/meetling-favicon.ico
   - name: Unsere Schulkindbetreuung
-    url: https://unsere-schulkindbetreuung.de
+    url: https://app.unsere-schulkindbetreuung.de
   - name: Open Datenschutzcenter Prod
     url: https://app.open-datenschutzcenter.de/health/check
   - name: Open Datenschutzcenter Demo
