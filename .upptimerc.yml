@@ -1,6 +1,5 @@
-# Change these first
-owner: h2-invent # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: h2-invent
+repo: status
 
 sites:
   - name: H2 invent Support
@@ -10,6 +9,7 @@ sites:
     icon: https://sso.h2-invent.com/resources/xtog3/login/h2_invent_4.0/img/favicon.ico
   - name: Jitsi Admin
     url: https://app.jitsi-admin.de/health/check
+    icon: https://jitsi-admin.de/media/jits-admin-favicon.ico
   - name: Meetling
     url: https://app.meetling.de/health/check
     icon: https://meetling.de/media/meetling-favicon.ico
@@ -21,11 +21,8 @@ sites:
     url: https://demo.open-datenschutzcenter.de/health/check
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://h2-invent.com/wp-content/uploads/2019/04/H2-invent-2.png
+  name: H2 Cloud Status
   introTitle: "**H2 Cloud Status Page**"
   introMessage: News and Status related to core services in H2 Cloud
   navbar:
