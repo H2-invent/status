@@ -27,7 +27,7 @@ status-website:
   introMessage: News and Status related to core services in H2 Cloud
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/h2-invent
 
