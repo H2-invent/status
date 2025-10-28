@@ -13,6 +13,12 @@ sites:
   - name: Meetling-Frontend
     url: https://app.meetling.de/health/check
     icon: https://meetling.de/media/meetling-favicon.ico
+  - name: Meetling-Notes
+    url: https://app1.meetling.de/favicon.ico
+    icon: https://meetling.de/media/meetling-favicon.ico
+  - name: Meetling-Whiteboard
+    url: https://app2.meetling.de/favicon.ico
+    icon: https://meetling.de/media/meetling-favicon.ico
   - name: Meetling-Livekit
     url: https://livekit.meetling.de/health/check
     icon: https://meetling.de/media/meetling-favicon.ico
