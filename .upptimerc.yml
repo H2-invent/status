@@ -26,9 +26,8 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://h2-invent.com/wp-content/uploads/2019/04/H2-invent-2.png
-  name: H2 Cloud Status
   introTitle: "**H2 Cloud Status Page**"
-  introMessage: Status Page for H2 Cloud
+  introMessage: News and Status related to core services in H2 Cloud
   navbar:
     - title: Status
       href: /
