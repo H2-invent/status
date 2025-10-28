@@ -10,8 +10,14 @@ sites:
   - name: Jitsi Admin
     url: https://app.jitsi-admin.de/health/check
     icon: https://jitsi-admin.de/media/jits-admin-favicon.ico
-  - name: Meetling
+  - name: Meetling-Frontend
     url: https://app.meetling.de/health/check
+    icon: https://meetling.de/media/meetling-favicon.ico
+  - name: Meetling-Livekit
+    url: https://livekit.meetling.de/health/check
+    icon: https://meetling.de/media/meetling-favicon.ico
+  - name: Meetling-Backend
+    url: https://livekit-rtc.meetling.de
     icon: https://meetling.de/media/meetling-favicon.ico
   - name: Unsere Schulkindbetreuung
     url: https://app.unsere-schulkindbetreuung.de
