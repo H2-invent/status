@@ -5,7 +5,7 @@ repo: status # The name of this repository
 sites:
   - name: H2 invent Support
     url: https://supportchat.h2-invent.com
-  - name: H2 Cloud IDP
+  - name: H2 Cloud Login
     url: https://sso.h2-invent.com/resources/xtog3/login/h2_invent_4.0/img/favicon.ico
     icon: https://sso.h2-invent.com/resources/xtog3/login/h2_invent_4.0/img/favicon.ico
   - name: Jitsi Admin
